@@ -180,7 +180,7 @@ class App extends Component {
               <p className='info'>Currently you are viewing this. In this portfolio i was mentioned the Skills and Achievements I have owned. This is a Responsive
               Design, It will automatically adjust the interface based on the screen sizes. Using Github pages to deploy website. 
               </p>
-              <div className='techs'>
+              <div className='techs pro-techs'>
               <AiOutlineHtml5 size ={40}/>
               <BiLogoCss3 size ={40}/>
               <BiLogoJavascript size ={40}/>

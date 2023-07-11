@@ -315,11 +315,14 @@ ul li a:hover{
   text-decoration: none;
 }
 .techs{
-  width: 40%;
+  width: 30%;
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin: 20px 0;
+}
+.pro-techs{
+  width: 40%;
 }
 .link-app{
   text-decoration: none;
@@ -455,6 +458,9 @@ ul li a:hover{
     text-align: left;
   }
   .techs{
+    width: 80%;
+  }
+  .pro-techs{
     width: 90%;
   }
   .name{
@@ -489,7 +495,7 @@ ul li a:hover{
   }
   .live{
     height: 50px;
-    min-width: 120px;
+    width: 120px;
     font-size: 12px;
     display: flex;
     justify-content: center;
