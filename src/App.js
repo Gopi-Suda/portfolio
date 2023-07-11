@@ -1,6 +1,6 @@
 import {Component} from 'react'
 import { TypeAnimation } from 'react-type-animation';
-import { BiMenu, BiLogoCss3, BiLogoJavascript, BiLogoNodejs,BiLogoPython } from 'react-icons/bi';
+import { BiMenu, BiLogoCss3, BiLogoJavascript, BiLogoNodejs,BiLogoPython, BiLogoGithub } from 'react-icons/bi';
 import {AiOutlineHtml5} from 'react-icons/ai';
 import {FiArrowUpRight} from "react-icons/fi";
 import {FaBootstrap} from "react-icons/fa";
@@ -159,6 +159,7 @@ class App extends Component {
             <li className='skill-li'><GrReactjs size ={60}/><p className='skill-name'>ReactJS</p></li>   
             <li className='skill-li'><DiSqllite size ={60}/><p className='skill-name'>SqlLite</p></li>
             <li className='skill-li'><BiLogoPython size ={60}/><p className='skill-name'>Python</p></li>
+            <li className='skill-li'><BiLogoGithub size ={60}/><p className='skill-name'>Github</p></li>
           </ul>
           </div>
         </Fade>
@@ -177,15 +178,19 @@ class App extends Component {
               <h1 className='pr-title'>Portfolio</h1>
               <p>A Digital Portfolio App.</p>
               <p className='info'>Currently you are viewing this. In this portfolio i was mentioned the Skills and Achievements I have owned. This is a Responsive
-              Design, It will automatically adjust the interface based on the screen sizes.
+              Design, It will automatically adjust the interface based on the screen sizes. Using Github pages to deploy website. 
               </p>
               <div className='techs'>
               <AiOutlineHtml5 size ={40}/>
               <BiLogoCss3 size ={40}/>
               <BiLogoJavascript size ={40}/>
               <GrReactjs size ={40}/>
+              <BiLogoGithub size = {40}/>
               </div>
+              <div className='live-box'>
               <div className='live'><BsDot size={40} color = "#00ff11"/>Currently Viewing</div>
+              <a href='https://github.com/Gopi-Suda/portfolio' target='_blank' rel ="noreferrer" className='gitlink' ><div className='live'>Live on Github..<FiArrowUpRight size={20} color = "#00ff11"/></div></a>
+              </div>
             </Fade>
           </div>
         </div>
