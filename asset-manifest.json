@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.449b813d.css",
-    "main.js": "/portfolio/static/js/main.a235bcc3.js",
+    "main.js": "/portfolio/static/js/main.dd54dcaf.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/pr2Wide.png": "/portfolio/static/media/pr2Wide.da387a698a3eb6c643ba.png",
     "static/media/calucWide.png": "/portfolio/static/media/calucWide.528860b9df94ad9fad1d.png",
     "static/media/pr2potrait.png": "/portfolio/static/media/pr2potrait.47538d6e94f49072263f.png",
+    "static/media/Gopi_Krishna_Suda_Resume.pdf": "/portfolio/static/media/Gopi_Krishna_Suda_Resume.ce71b1b1d59587d6bf9b.pdf",
     "static/media/pr1wide.png": "/portfolio/static/media/pr1wide.0195af2637b0d982bd80.png",
     "static/media/calcPotrait.png": "/portfolio/static/media/calcPotrait.b0f59b4af9a686a8c58c.png",
-    "static/media/Gopi_Krishna_Suda_Resume.pdf": "/portfolio/static/media/Gopi_Krishna_Suda_Resume.f7df72dba302f2584c32.pdf",
     "static/media/pr1potrait.png": "/portfolio/static/media/pr1potrait.905652e1e5dfdba794c1.png",
     "static/media/portfolio-wide.png": "/portfolio/static/media/portfolio-wide.b3726fb450d3650a0636.png",
     "static/media/todoWide.png": "/portfolio/static/media/todoWide.62594c728b182e967738.png",
@@ -16,11 +16,11 @@
     "static/media/portfolio-small.png": "/portfolio/static/media/portfolio-small.294e1557a71fb8a77f15.png",
     "index.html": "/portfolio/index.html",
     "main.449b813d.css.map": "/portfolio/static/css/main.449b813d.css.map",
-    "main.a235bcc3.js.map": "/portfolio/static/js/main.a235bcc3.js.map",
+    "main.dd54dcaf.js.map": "/portfolio/static/js/main.dd54dcaf.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.449b813d.css",
-    "static/js/main.a235bcc3.js"
+    "static/js/main.dd54dcaf.js"
   ]
 }
